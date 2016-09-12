@@ -15,3 +15,14 @@ Download the files in this repository and open the 'index.html' file. Opening th
 * If an Enemy bug runs into the Player, the Player will have lost the game and a "Game Over!" screen will appear.
 * If the player successfully reaches the top row of tiles, the PLayer will have won the game and a "You Won!" screen will appear.
 * Once the game has either been won or lost, the user can choose to refresh the browser in order to play again.
+
+## How to Play
+
+Movement of the Player character is completely controlled by the arrow keys.
+
+* To move the Player up, press the up arrow key
+* To move the Player down, press the down arrow key
+* To move the Player right, press the right arrow key
+* To move the Player left, press the left arrow key
+
+Besides moving the Player, there are no other crontrols for the game.
